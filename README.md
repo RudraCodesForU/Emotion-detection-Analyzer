@@ -1,0 +1,1 @@
+This the official Repo of MY WALMART 2K24 - SPARKATHON JOURNEY. An Asian national level hackathon oraganised by Walmart to showcase AI Developers, ML Engineers there peer limit and driven them to passsionately showcase their skills to develop a project that deals with nationwide outcomes.
